@@ -1026,11 +1026,11 @@
     </message>
     <message>
         <source>Application name</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicatienaam</translation>
     </message>
     <message>
         <source>Confirm removal</source>
-        <translation type="unfinished">Bevestig verwijdering</translation>
+        <translation>Bevestig verwijdering</translation>
     </message>
 </context>
 <context>
