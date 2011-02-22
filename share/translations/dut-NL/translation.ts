@@ -1221,7 +1221,7 @@
     <name>design/admin/content/bookmark</name>
     <message>
         <source>My bookmarks [%bookmark_count]</source>
-        <translation type="unfinished">Mijn favorieten [%bookmark_count]</translation>
+        <translation>Mijn favorieten [%bookmark_count]</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1281,7 +1281,7 @@
     </message>
     <message>
         <source>My bookmarks (%bookmark_count)</source>
-        <translation type="unfinished">Mijn favorieten (%bookmark_count)</translation>
+        <translation>Mijn favorieten (%bookmark_count)</translation>
     </message>
 </context>
 <context>
@@ -2223,7 +2223,7 @@
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Voorbeeld</translation>
+        <translation>Voorbeeld</translation>
     </message>
     <message>
         <source>Existing translations</source>
@@ -2255,7 +2255,7 @@
     </message>
     <message>
         <source>View the draft that is being edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk het concept wat bewerkt wordt.</translation>
     </message>
 </context>
 <context>
