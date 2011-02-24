@@ -28485,36 +28485,36 @@ indien u optie &quot;%3&quot; tot &quot;%4&quot; koos</translation>
     <name>pdf/edit</name>
     <message>
         <source>PDF Export</source>
-        <translation type="unfinished">Exporteer PDF</translation>
+        <translation>Exporteer PDF</translation>
     </message>
 </context>
 <context>
     <name>settings/edit</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Instellingen</translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bewerken</translation>
+        <translation>Bewerken</translation>
     </message>
 </context>
 <context>
     <name>settings/view</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Instellingen</translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Bekijken</translation>
+        <translation>Bekijken</translation>
     </message>
 </context>
 <context>
     <name>shop</name>
     <message>
         <source>Remove orders</source>
-        <translation type="unfinished">Orders verwijderen</translation>
+        <translation>Orders verwijderen</translation>
     </message>
 </context>
 <context>
